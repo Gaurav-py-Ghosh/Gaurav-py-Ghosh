@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gaurav-py-Ghosh
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently a high school beginner 
+- 👋 Hi, I’m @Gaurav-py-Ghosh.
+- 👀 I’m interested in Python/C++/Web Dev/ Flutter AppDev.
+- 🌱 I’m currently a Undergrad Student
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me on discord ✨Gaurav✨#7586
+- 📫 How to reach me on Linkedln - https://www.linkedin.com/in/gaurav-ghosh-9531132b3/
 
 <!---
 Gaurav-py-Ghosh/Gaurav-py-Ghosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
