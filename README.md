@@ -1,7 +1,8 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/MAsad92)
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="1200">
+
 <h1 align="center">Hi 👋, I'm Gaurav Ghosh</h1>
 <h3 align="center">Flutter/Web Dev Enthusiast| BMU '27 | Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masad92&label=Profile%20views&color=0e75b6&style=flat" alt="Gaurav-py-Ghosh" /> </p>
 
