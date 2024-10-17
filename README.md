@@ -44,12 +44,15 @@
 </div>
 <br><br>   
 
+[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-py-Ghosh&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gaurav-py-Ghosh&show_icons=true&locale=en&layout=compact" alt="Gaurav Ghosh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav-py-Ghosh&show_icons=true&locale=en" alt="Gaurav Ghosh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-py-Ghosh&" alt="Gaurav Ghosh" /></p>
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-py-Ghosh&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-py-Ghosh&theme=tokyonight" />
+</p>
 
 
 [![An image of @gauravpyghosh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravpyghosh)](https://holopin.io/@gauravpyghosh)
