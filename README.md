@@ -55,7 +55,7 @@
  
 </p>
 <p align="center">
- <img width="48%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-py-Ghosh&theme=tokyonight](https://github-contributor-stats.vercel.app/api?username=Gaurav-py-Ghosh&limit=5&theme=dark&combine_all_yearly_contributions=true)" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-py-Ghosh&theme=tokyonight](https://github-contributor-stats.vercel.app/api?username=Gaurav-py-Ghosh&limit=5&theme=dark&combine_all_yearly_contributions=true)" />
 </p>
 
 
