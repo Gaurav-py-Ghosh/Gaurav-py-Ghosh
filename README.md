@@ -50,12 +50,12 @@
 <p align="center">
 	
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-py-Ghosh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-py-Ghosh&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav-py-Ghosh&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-py-Ghosh&theme=dark" />
  
 </p>
 <p align="center">
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-py-Ghosh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-py-Ghosh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 
