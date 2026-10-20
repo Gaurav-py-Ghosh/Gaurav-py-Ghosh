@@ -1,4 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="1200">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d0d0d,50:7a0010,100:0d0d0d&text=GAURAV%20GHOSH&fontSize=64&fontColor=ffffff&stroke=ff1e3c&strokeWidth=1&animation=fadeIn&desc=friendly%20neighbourhood%20developer%20-%20securing%20the%20web&descSize=18&descAlignY=72" width="1200">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+crawling+the+web+for+bugs...;%3E+firewall+status%3A+ACTIVE;%3E+patching+vulnerabilities...;%3E+access+granted.+welcome+%F0%9F%95%B8%EF%B8%8F" alt="Terminal typing animation" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Ghosh</h1>
 <h3 align="center">Flutter/Web Dev Enthusiast| BMU '27 | Developer</h3>
@@ -45,7 +48,19 @@
 </div>
 <br><br>   
 
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-py-Ghosh&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="center">🐍 My contributions, getting eaten</h3>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaurav-py-Ghosh/Gaurav-py-Ghosh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaurav-py-Ghosh/Gaurav-py-Ghosh/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Gaurav-py-Ghosh/Gaurav-py-Ghosh/output/github-snake-dark.svg" />
+</picture>
+</p>
+
+<!-- Want the old line graph back? Deploy your own free copy (github.com/Ashutosh00710/github-readme-activity-graph → "Deploy to Vercel"),
+     then put your Vercel URL in place of YOUR-APP below and remove these comment markers:
+[![Gaurav's github activity graph](https://YOUR-APP.vercel.app/graph?username=Gaurav-py-Ghosh&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 
 ## 📈 Stats
