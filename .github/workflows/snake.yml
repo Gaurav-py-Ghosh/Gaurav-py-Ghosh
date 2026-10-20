@@ -32,7 +32,7 @@ jobs:
 
       - name: Diagnostics (manual runs only)
         if: github.event_name == 'workflow_dispatch'
-        run: python3 .github/scripts/debug_repos.py
+        run: python3 .github/scripts/debug_repos.py | tee dist/diagnostics.txt
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
