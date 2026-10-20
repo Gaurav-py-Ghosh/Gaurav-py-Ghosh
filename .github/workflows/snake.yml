@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile cards (snake + top repos)
 
 on:
   schedule:
@@ -15,12 +15,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=#0e75b6
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#1cadfb
+
+      - name: Build top contributed repos card
+        run: python3 .github/scripts/top_repos.py dist/top-repos.svg 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

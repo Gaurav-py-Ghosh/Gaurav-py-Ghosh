@@ -77,7 +77,9 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gaurav-py-Ghosh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gaurav-py-Ghosh/Gaurav-py-Ghosh/output/top-repos.svg" alt="Top contributed repos" />
+</p>
 
 
 
