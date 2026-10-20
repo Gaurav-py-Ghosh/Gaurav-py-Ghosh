@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d0d0d,50:7a0010,100:0d0d0d&text=GAURAV%20GHOSH&fontSize=64&fontColor=ffffff&stroke=ff1e3c&strokeWidth=1&animation=fadeIn&desc=friendly%20neighbourhood%20developer%20-%20securing%20the%20web&descSize=18&descAlignY=72" width="1200">
+<img src="https://media.giphy.com/media/dJo9h2zrdANo1GO3pd/giphy.gif" width="1200">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+crawling+the+web+for+bugs...;%3E+firewall+status%3A+ACTIVE;%3E+patching+vulnerabilities...;%3E+access+granted.+welcome+%F0%9F%95%B8%EF%B8%8F" alt="Terminal typing animation" />
 </p>
