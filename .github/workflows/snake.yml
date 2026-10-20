@@ -30,6 +30,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Diagnostics (manual runs only)
+        if: github.event_name == 'workflow_dispatch'
+        run: python3 .github/scripts/debug_repos.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
