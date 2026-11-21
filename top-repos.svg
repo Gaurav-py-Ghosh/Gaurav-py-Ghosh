@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="246" viewBox="0 0 495 246" role="img" aria-label="Top contributed repositories">
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+    .row { opacity: 0; animation: fade 0.5s ease-out forwards; }
+    .bar { transform-box: fill-box; transform-origin: left; transform: scaleX(0); animation: grow 0.8s ease-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes grow { to { transform: scaleX(1); } }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="245" rx="4.5" fill="#151515" stroke="#e4e2e2" stroke-opacity="0.2"/>
+  <text x="25" y="35" fill="#ffffff" font-size="18" font-weight="600">Top Contributed Repos</text>
+  <g class="row" style="animation-delay:0ms">
+    <circle cx="31" cy="73" r="5" fill="#3178c6"><title>TypeScript</title></circle>
+    <text x="44" y="77" fill="#c9d1d9" font-size="13" font-weight="600">apiCopilot</text>
+    <rect x="238" y="67" width="162" height="11" rx="5.5" fill="#2b2b2b"/>
+    <rect class="bar" x="238" y="67" width="162" height="11" rx="5.5" fill="#1cadfb" style="animation-delay:200ms"/>
+    <text x="470" y="77" fill="#9f9f9f" font-size="12" text-anchor="end">32 commits</text>
+  </g>
+  <g class="row" style="animation-delay:150ms">
+    <circle cx="31" cy="107" r="5" fill="#f1e05a"><title>JavaScript</title></circle>
+    <text x="44" y="111" fill="#c9d1d9" font-size="13" font-weight="600">Sejal207/Hacked3.0</text>
+    <rect x="238" y="101" width="162" height="11" rx="5.5" fill="#2b2b2b"/>
+    <rect class="bar" x="238" y="101" width="152" height="11" rx="5.5" fill="#1cadfb" style="animation-delay:350ms"/>
+    <text x="470" y="111" fill="#9f9f9f" font-size="12" text-anchor="end">30 commits</text>
+  </g>
+  <g class="row" style="animation-delay:300ms">
+    <circle cx="31" cy="141" r="5" fill="#3572A5"><title>Python</title></circle>
+    <text x="44" y="145" fill="#c9d1d9" font-size="13" font-weight="600">Lattice</text>
+    <rect x="238" y="135" width="162" height="11" rx="5.5" fill="#2b2b2b"/>
+    <rect class="bar" x="238" y="135" width="111" height="11" rx="5.5" fill="#1cadfb" style="animation-delay:500ms"/>
+    <text x="470" y="145" fill="#9f9f9f" font-size="12" text-anchor="end">22 commits</text>
+  </g>
+  <g class="row" style="animation-delay:450ms">
+    <circle cx="31" cy="175" r="5" fill="#f1e05a"><title>JavaScript</title></circle>
+    <text x="44" y="179" fill="#c9d1d9" font-size="13" font-weight="600">TedxBMU</text>
+    <rect x="238" y="169" width="162" height="11" rx="5.5" fill="#2b2b2b"/>
+    <rect class="bar" x="238" y="169" width="101" height="11" rx="5.5" fill="#1cadfb" style="animation-delay:650ms"/>
+    <text x="470" y="179" fill="#9f9f9f" font-size="12" text-anchor="end">20 commits</text>
+  </g>
+  <g class="row" style="animation-delay:600ms">
+    <circle cx="31" cy="209" r="5" fill="#f1e05a"><title>JavaScript</title></circle>
+    <text x="44" y="213" fill="#c9d1d9" font-size="13" font-weight="600">ACM-BMU/Glitch</text>
+    <rect x="238" y="203" width="162" height="11" rx="5.5" fill="#2b2b2b"/>
+    <rect class="bar" x="238" y="203" width="91" height="11" rx="5.5" fill="#1cadfb" style="animation-delay:800ms"/>
+    <text x="470" y="213" fill="#9f9f9f" font-size="12" text-anchor="end">18 commits</text>
+  </g>
+</svg>
